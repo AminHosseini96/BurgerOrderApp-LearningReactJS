@@ -5,3 +5,5 @@ This project is a a burger ordering application that i developed during learning
 ## Description
 
 In this app, users can start building their burger buy adding or removing layers of meeat, cheese, and etc. They can submit their order or cancel it.
+
+![alt text](https://github.com/AminHosseini96/BurgerOrderApp-LearningReactJS/blob/main/Screenshot.png?raw=true)
